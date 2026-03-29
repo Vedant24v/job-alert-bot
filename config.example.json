@@ -1,0 +1,8 @@
+{
+  "BOT_TOKEN": "your-telegram-bot-token-here",
+  "CHAT_ID": "your-chat-id-here",
+  "keywords": ["python", "web developer", "react"],
+  "location": "pune",
+  "min_stipend": 0,
+  "sources": ["internshala"]
+}
